@@ -6,7 +6,7 @@ Windows app by [Excess Pro Net LLC](https://excesspronet.com) that turns `.stl` 
 
 ## Download
 
-**[Latest release](https://github.com/alfonsitosenx/stl-digital-goods-short-2-video-maker/releases/latest)** — `STLDigitalGoodsShort2VideoMaker-Setup-2.0.0.exe` (90 MB)
+**[Latest release](https://github.com/alfonsitosenx/stl-digital-goods-short-2-video-maker/releases/latest)** — `STLDigitalGoodsShort2VideoMaker-Setup-2.0.1.exe` (90 MB)
 
 The installer bundles the complete 3D rendering and video engines, so nothing else needs to be installed.
 
