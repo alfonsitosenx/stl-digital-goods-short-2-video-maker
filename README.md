@@ -6,7 +6,7 @@ Windows app by [Excess Pro Net LLC](https://excesspronet.com) that turns `.stl` 
 
 ## Download
 
-**[Latest release](https://github.com/alfonsitosenx/stl-digital-goods-short-2-video-maker/releases/latest)** — `STLDigitalGoodsShort2VideoMaker-Setup-2.0.3.exe` (94 MB)
+**[Latest release](https://github.com/alfonsitosenx/stl-digital-goods-short-2-video-maker/releases/latest)** — `STLDigitalGoodsShort2VideoMaker-Setup-2.0.4.exe` (94 MB)
 
 The installer bundles the complete 3D rendering and video engines, so nothing else needs to be installed.
 
@@ -21,7 +21,7 @@ The installer bundles the complete 3D rendering and video engines, so nothing el
 
 ### AI marketing studio
 - **Listing copy from your product images** — title, multi-paragraph description, 13 tags, caption and per-slide text
-- **Vision AI via OpenRouter or Alibaba Cloud** — bring your own API key, pick any vision model
+- **Vision AI via OpenRouter or Alibaba Cloud** — bring your own API key; the list of vision models and their prices is fetched live from the provider
 - **Auto-Fill needs no AI key at all** — builds copy from folder contents and file sizes
 - **30 video styles** across Classic, Modern Dynamic, Cinematic Focus and Social Media Pro
 - **4 aspect ratios** — 1:1 square (Etsy), 9:16 (Reels/TikTok), 2:3 (Pinterest), 4:5 (Facebook/Instagram)
